@@ -1,0 +1,17 @@
+.Title {
+	color: DarkGreen;
+	font-size: 30px;
+	background-color: LightBlue;
+}
+
+.Industry {
+	color: DarkBlue;
+	font-size: 25px;
+	background-color: LightGreen;
+}
+
+.Services {
+	color: DarkRed;
+	font-size: 20px;
+	background-color: LightOrange;
+}
