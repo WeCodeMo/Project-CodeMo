@@ -1,0 +1,38 @@
+.Name {
+	color: #FFFF;
+	font-size: 60px;
+	font-family: 'Georgia';
+	position: relative;
+	text-align: center;
+	height: 100px;
+}
+.Industry {
+	color: DarkBlue;
+	font-size: 35px;
+	font-family: 'Railway';
+	position: relative;
+	text-align: center;
+	height: 40px;
+}
+.City {
+	color: DarkGreen;
+	font-size: 30px;
+	font-family: 'Helvectia';
+	position: relative;
+	text-align: center;
+	height: 25px;
+}
+.Services {
+	color: DarkRed;
+	font-size: 25px;
+	font-family: 'Arial';
+	position: relative;
+	text-align: center;
+}
+.Services2 {
+	color: DarkPurple;
+	font-size: 20px;
+	font-family: 'Bold';
+	position: relative;
+	text-align: center;
+}
