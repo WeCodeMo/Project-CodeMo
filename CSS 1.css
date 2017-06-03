@@ -1,0 +1,65 @@
+.Link {
+	color: #FFFF;
+	font-size: 10px;
+	position: relative;
+	text-align: center;
+}
+
+.body {
+	min-height: 100vh;
+	position: relative;
+	margin: 0;
+}
+.html {
+	background: red;
+}
+.Picture {
+	height: 100%;
+}
+
+	
+.Name {
+	background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-6/htmlcss1-img_singaporeskyline.jpeg");
+  background-position: bottom center;
+  background-repeat: repeat;
+	color: Red;
+	font-size: 60px;
+	font-family: 'Georgia';
+	position: relative;
+	text-align: center;
+	height: 250px;
+	margin: 5px;
+	padding: 5px;
+}
+.Industry {
+	color: DarkBlue;
+	font-size: 35px;
+	font-family: 'Railway';
+	position: relative;
+	text-align: center;
+	height: 40px;
+}
+.City {
+	color: DarkGreen;
+	font-size: 30px;
+	font-family: 'Helvectia';
+	position: relative;
+	text-align: center;
+	height: 25px;
+}
+.Services {
+	color: DarkRed;
+	font-size: 25px;
+	font-family: 'Arial';
+	position: relative;
+	text-align: center;
+	height: 40px;
+}
+.Services2 {
+	color: DarkPurple;
+	font-size: 20px;
+	font-family: 'Bold';
+	position: relative;
+	text-align: center;
+	height: 80px;
+}
